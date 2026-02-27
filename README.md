@@ -121,4 +121,4 @@ Este projeto foi expandido com:
 
 ✅ Uso de Optional para evitar retornos nulos
 
-✅ Uso de Enum para fortalecer a modelagem do domínio
+✅ Uso de Enum para fortalecer a modelagem do domínio.
