@@ -10,7 +10,7 @@ public class Curso extends Conteudo{
 
     public Curso() {
     }
-    
+
     public void setCargaHoraria(int cargaHoraria) {
         this.cargaHoraria = cargaHoraria;
     }
