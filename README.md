@@ -32,6 +32,7 @@ O Dev evolui conforme progride
 
 🏗 Estrutura do Domínio
 📌 Classes Principais
+
 🔹 Conteudo (classe abstrata)
 
 Representa qualquer conteúdo educacional.
